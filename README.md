@@ -20,5 +20,6 @@
 ### 🔗 Finn meg her:
 - 💼 [LinkedIn](https://www.linkedin.com/in/mihretab-dawi-566562227/)
 - 📧 Send meg en e-post: [mihretabda@uia.no](mailto:mihretabda@uia.no)
+Jeg har nå lært meg å oppdatere github via git og vs code
 
 
