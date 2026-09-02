@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hei, jeg er Mihretab Dawi Amentea 👋
 
-<!--
-**Amentea/Amentea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Om meg
+- 📚 Jeg studerer It og informasjonssystem ved Universitetet i Agder Kristiansand
+- 💻 For tiden lærer jeg mer om teknologi, KI og akkurat nå litt koding i python og spesielt hvordan github fungerer 
+- 🎯 Målet mitt er å lære så mye som mulig innen ai, informasjonssystem og annen teknologi sånn at jeg kan hjelpe bedrifter og utnytte disse verktøyene på best mulig måte.
 
-Here are some ideas to get you started:
+### 🧠 Faglige interesser
+- 🌐 Cybersikkerhet
+- 🤖 Kunstig intelligens og Problemløsning
+- 📊 Dataanalyse og informasjonssystem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎈 Fritid & Hobbyer
+- 💪Styrketrening /🏃‍♂️ Løping / 🏊‍♂️ Svømming
+- 🎮 Gaming / 🧑‍🤝‍🧑 Venner / 🌳 Turer
+- 💡 Morsomt faktum: Jeg elsker å være geeken i huset men er nå klar for nye utfordringer i tech verden!😅
+
+---
+
+### 🔗 Finn meg her:
+- 💼 [LinkedIn](https://www.linkedin.com/in/mihretab-dawi-566562227/)
+- 📧 Send meg en e-post: [mihretabda@uia.no](mailto:mihretabda@uia.no)
+  
